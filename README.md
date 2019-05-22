@@ -1,2 +1,2 @@
-Haskell is a fun language. But this project is also a way for me to learn how to use git/github.
+Haskell is a fun language. 
 The problems are from projecteuler.net
